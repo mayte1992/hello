@@ -1,8 +1,7 @@
 let's see!mayte1991 do something and try where
 
 function(){
-    1991 new branch learn somthing 1991版本。
+    1991 new branch
     "I am crazy now! I am mayte1991!"
     return 0;
 }
-好希望有冲突。
